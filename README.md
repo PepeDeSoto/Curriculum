@@ -50,4 +50,13 @@ Tengo 22 años soy estudiante de Tercero de Ingenieria Informatica de Tecnologí
 + Metodologías ágiles como Scrum, Kanban o Scrumban
 + Conocimiento en Redes de Computadores y arquitectura de Redes (Matricula)
 
+## Otra información
+
++ Aptitud para trabajar en equipo y realizar proyectos en forma complementaria
++ Habilidades comunicativas y sociales
++ Compromiso y responsabilidad con mis funciones
++ Pro-activo
++ Socialble
++ Ganas de aprender y desarrollarme
+
 ## Puedes encontrar proyectos que yo mismo he realizado visitanto [Mi GitHub](https://github.com/PepeDeSoto?tab=repositories)
