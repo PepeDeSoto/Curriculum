@@ -1,8 +1,6 @@
 # José María de Soto Oncíns
 
-_Acá va un párrafo que describa lo que es el proyecto_
-
-## Informacion personal 🚀
+## Informacion personal
 
 + | Fecha de Nacimiento: 30 de Noviembre de 1997 <br>
 + | Domicilio: C/ Tajo Nº13
