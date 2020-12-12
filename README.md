@@ -1,6 +1,6 @@
 # José María de Soto Oncíns
 
-<img src="https://raw.githubusercontent.com/PepeDeSoto/Curriculum/main/imagen.png" style="width: 428px; height: 300px; position: center" >
+<img src="https://raw.githubusercontent.com/PepeDeSoto/Curriculum/main/imagen.png" style="width: 100% position: center" >
 
 
 ## Informacion personal
