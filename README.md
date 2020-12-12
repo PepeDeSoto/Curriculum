@@ -1,5 +1,8 @@
 # José María de Soto Oncíns
 
+<img src="https://raw.githubusercontent.com/PepeDeSoto/Curriculum/main/imagen.png" style="width: 428px; height: 300px; position: center" >
+
+
 ## Informacion personal
 
 + | Fecha de Nacimiento: 30 de Noviembre de 1997 <br>
