@@ -11,7 +11,7 @@
 
 ## Sobre mi
 
-Tengo 22 años soy estudiante de Tercero de Ingenieria Informatica de Tecnologías Informáticas en la Universidad de Sevilla. Ahoramismo trabajo como camarero pero lo que realmente me gusta y me interesa son las tecnologías. Es por eso que ando en busca de un trabajo en el cual comenzar a desarrollarme.
+Tengo 22 años soy estudiante de Tercero de Ingeniería Informática de Tecnologías Informáticas en la Universidad de Sevilla. Ahora mismo trabajo como camarero, pero lo que realmente me gusta y me interesa son las tecnologías. Es por eso que ando en busca de un trabajo en el cual comenzar a desarrollarme.
 
 ## Software manejado
 
