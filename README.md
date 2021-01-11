@@ -16,7 +16,7 @@ Tengo 22 años soy estudiante de Tercero de Ingeniería Informática de Tecnolog
 ## Software manejado
 
 + Paquete de Microsoft Office
-+ Herramientas de presentación como Prezi o SlideShare
++ Herramientas de presentación como Prezi
 + Microsoft Visual Studio
 + Eclipse IDE
 + IntelliJ IDEA
@@ -51,7 +51,7 @@ Tengo 22 años soy estudiante de Tercero de Ingeniería Informática de Tecnolog
 
 + Lenguaje unificado de modelado, UML
 + Metodologías ágiles como Scrum, Kanban o Scrumban
-+ Conocimiento en Redes de Computadores y arquitectura de Redes (Matricula)
++ Conocimiento en Redes de Computadores y arquitectura de Redes (Matrícula de honor)
 
 ## Otra información
 
@@ -59,7 +59,7 @@ Tengo 22 años soy estudiante de Tercero de Ingeniería Informática de Tecnolog
 + Habilidades comunicativas y sociales
 + Compromiso y responsabilidad con mis funciones
 + Pro-activo
-+ Socialble
++ Sociable
 + Ganas de aprender y desarrollarme
 
-## Puedes encontrar proyectos que yo mismo he realizado visitanto [Mi GitHub](https://github.com/PepeDeSoto?tab=repositories)
+## Puedes encontrar proyectos que yo mismo he realizado visitando [Mi GitHub](https://github.com/PepeDeSoto?tab=repositories)
