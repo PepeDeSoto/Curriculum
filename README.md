@@ -36,15 +36,15 @@ Tengo 22 años soy estudiante de Tercero de Ingenieria Informatica de Tecnologí
 + CSS
 + JavaScript
 + Bootstrap
-
-## Actualmente desarrollandome en...
-
 + Node.js
 + Express
++ MySQL
++ MariaDB
+
+## Actualmente desarrollandome en...
 + Angular
 + React
 + Vue
-+ MySQL
 + MongoDB
 
 ## Otros conocimientos
@@ -55,7 +55,7 @@ Tengo 22 años soy estudiante de Tercero de Ingenieria Informatica de Tecnologí
 
 ## Otra información
 
-+ Aptitud para trabajar en equipo y realizar proyectos en forma complementaria
++ Aptitud para trabajar en equipo y realizar proyectos
 + Habilidades comunicativas y sociales
 + Compromiso y responsabilidad con mis funciones
 + Pro-activo
