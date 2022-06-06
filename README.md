@@ -6,18 +6,21 @@
 ## Informacion personal
 
 + | Fecha de Nacimiento: 30 de Noviembre de 1997 <br>
-+ | Domicilio: C/ Tajo Nº13
++ | Domicilio: C/ Austria Nº6, Sevilla 41012
 + | DNI: 29551255G 
 
 ## Sobre mi
 
-Tengo 22 años soy estudiante de Tercero de Ingeniería Informática de Tecnologías Informáticas en la Universidad de Sevilla. Ahora mismo trabajo como camarero, pero lo que realmente me gusta y me interesa son las tecnologías. Es por eso que ando en busca de un trabajo en el cual comenzar a desarrollarme.
+Tengo 24 años soy estudiante de Tercero de Ingeniería Informática de Tecnologías Informáticas en la Universidad de Sevilla. Actualmente trabajo como desarrollador de Backend con PHP, pero me encantaría poder trabajar con otras tecnologías y así ampliar mis conocimientos.
+
+## Experiencia
+
++ Desarrollador PHP en Bluumi (abril 2021 - actualidad)
 
 ## Software manejado
 
-+ Paquete de Microsoft Office
-+ Herramientas de presentación como Prezi
 + Microsoft Visual Studio
++ Sourcetree (Gestor de versiones) 
 + Eclipse IDE
 + IntelliJ IDEA
 + Visual Studio Code
@@ -27,8 +30,14 @@ Tengo 22 años soy estudiante de Tercero de Ingeniería Informática de Tecnolog
 + XAMPP
 + Wireshark
 + Oracle
++ DBeaver (Gestor de Bases de Datos)
++ GenyMotion
++ Paquete de Microsoft Office
++ Herramientas de presentación como Prezi
 
 ## Lenguajes de programación y frameworks manejados
+
++ PHP (Codeigniter)
 + Python
 + Java
 + C
@@ -40,12 +49,12 @@ Tengo 22 años soy estudiante de Tercero de Ingeniería Informática de Tecnolog
 + Express
 + MySQL
 + MariaDB
++ MySQL
++ PostgreSQL
 
 ## Actualmente desarrollandome en...
-+ Angular
-+ React
-+ Vue
-+ MongoDB
+
++ Node.js
 
 ## Otros conocimientos
 
@@ -62,4 +71,4 @@ Tengo 22 años soy estudiante de Tercero de Ingeniería Informática de Tecnolog
 + Sociable
 + Ganas de aprender y desarrollarme
 
-## Puedes encontrar proyectos que yo mismo he realizado visitando [Mi GitHub](https://github.com/PepeDeSoto?tab=repositories)
+## Puedes encontrar proyectos personales visitando [Mi GitHub](https://github.com/PepeDeSoto?tab=repositories)
