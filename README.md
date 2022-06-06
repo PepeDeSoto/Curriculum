@@ -11,7 +11,7 @@
 
 ## Sobre mi
 
-Tengo 24 años soy estudiante de Tercero de Ingeniería Informática de Tecnologías Informáticas en la Universidad de Sevilla. Actualmente trabajo como desarrollador de Backend con PHP, pero me encantaría poder trabajar con otras tecnologías y así ampliar mis conocimientos.
+Tengo 24 años, soy estudiante de Tercero de Ingeniería Informática de Tecnologías Informáticas en la Universidad de Sevilla. Actualmente trabajo como desarrollador de Backend con PHP, pero me encantaría poder trabajar con otras tecnologías y así ampliar mis conocimientos.
 
 ## Experiencia
 
@@ -49,7 +49,6 @@ Tengo 24 años soy estudiante de Tercero de Ingeniería Informática de Tecnolog
 + Express
 + MySQL
 + MariaDB
-+ MySQL
 + PostgreSQL
 
 ## Actualmente desarrollandome en...
